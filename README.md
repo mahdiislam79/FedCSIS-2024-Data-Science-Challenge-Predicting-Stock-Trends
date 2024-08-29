@@ -32,19 +32,6 @@ Exploratory Data Analysis:
 - Perform additional exploratory data analysis to gain insights into the dataset's structure and relationships.
 Visualize distributions and relationships between different financial indicators across various sectors.
 
-### How to Use
-Clone the repository:
-
-bash
-`git clone https://github.com/yourusername/FedCSIS-2024-Stock-Trends.git`
-
-Install the required libraries:
-bash
-`pip install -r requirements.txt`
-
-Run the Jupyter notebook:
-
-Open the Jupyter notebook containing the code and execute the cells sequentially to reproduce the analysis and results.
 ## Conclusion
 This project aims to leverage statistical learning and data mining techniques to predict stock trends effectively. The comprehensive approach, including thorough data preprocessing and exploratory analysis, lays the foundation for building robust prediction models.
 
